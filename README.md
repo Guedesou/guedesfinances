@@ -2,18 +2,15 @@
   <img alt="guedesfinances" title="Guede$ Finance$" src="./assets/logo.svg" width="220px" />
 </h1>
 
+
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-
+<h4> To run the model,<a href="https://guedes-finances.vercel.app/"> visit this link </a>provided by Vercel</h4>
 <p align="center">
- <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=49AA26&labelColor=000000" alt="PRs welcome!" />
-
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+<a href="https://imgur.com/e4AjTxn"><img src="https://i.imgur.com/e4AjTxn.png" title="source: imgur.com" /></a>
 </p>
-
-<br>
 
 <p align="center">
   <img alt="guedesfinances" src="./assets/logo.svg" width="100%">
